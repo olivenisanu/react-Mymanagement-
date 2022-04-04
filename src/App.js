@@ -6,7 +6,6 @@ function App() {
     <div className="gray-background">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Lets try to create masnagement
-d
 
         </h2>
     </div>
